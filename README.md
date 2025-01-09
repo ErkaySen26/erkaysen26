@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ErkaySen26](https://github.com/ErkaySen26)
 
-- 💬 Ask me about **Frontend Technologies, JavaScript Frameworks, Vue.js, and GSAP Animations.**
+- 💬 Ask me about **Frontend Technologies, JavaScript Frameworks**
 
 - 📫 How to reach me **erkay3926@gmail.com**
 
