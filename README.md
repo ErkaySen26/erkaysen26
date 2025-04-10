@@ -6,7 +6,7 @@
 </p>
 
 - 🔭 Currently working on **AI supported CV preparation site**
-- 🌱 Learning **React.js, Node.js, Java Spring**
+- 🌱 Learning **React.js, Vue.js, Java Spring**
 - 👯 Looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **Frontend Technologies, JavaScript Frameworks**
 - 📫 Reach me at **erkay3926@gmail.com**
