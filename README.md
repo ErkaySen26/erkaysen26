@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=erkaysen26&label=Profile%20views&color=0e75b6&style=flat" alt="erkaysen26" /> 
 </p>
 
-- 🔭 Currently working on **AI supported CV preparation site with Next.js, React and Spring Boot**
+- 🔭 Currently working on **Next.js, React and Spring Boot**
 - 🌱 Learning **Next.js, React.js, Vue.js, Java Spring Boot**
 - 👯 Looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **Frontend Technologies, JavaScript Frameworks**
